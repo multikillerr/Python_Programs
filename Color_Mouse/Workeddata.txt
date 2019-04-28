@@ -1,0 +1,2672 @@
+( 974 , 499 )
+Horizontal -957
+( 974 , 499 )
+Vertical -481
+938
+348
+306
+342
+277
+( 917 , 508 )
+Horizontal -898
+( 917 , 508 )
+Vertical -488
+994
+409
+423
+338
+( 841 , 520 )
+Horizontal -818
+( 841 , 520 )
+Vertical -498
+1068
+469
+482
+468
+462
+410
+( 795 , 543 )
+Horizontal -771
+( 795 , 543 )
+Vertical -527
+1113
+497
+473
+541
+514
+454
+( 777 , 544 )
+Horizontal -749
+( 777 , 544 )
+Vertical -522
+1129
+535
+492
+555
+521
+470
+( 721 , 570 )
+Horizontal -691
+( 721 , 570 )
+Vertical -547
+1184
+587
+594
+577
+524
+( 709 , 581 )
+Horizontal -677
+( 709 , 581 )
+Vertical -554
+1195
+589
+616
+589
+585
+530
+( 711 , 587 )
+Horizontal -677
+( 711 , 587 )
+Vertical -559
+1192
+593
+616
+584
+463
+532
+( 706 , 594 )
+Horizontal -672
+( 706 , 594 )
+Vertical -566
+1197
+582
+558
+622
+587
+468
+536
+( 702 , 597 )
+Horizontal -670
+( 702 , 597 )
+Vertical -568
+1202
+588
+630
+595
+543
+( 702 , 600 )
+Horizontal -666
+( 702 , 600 )
+Vertical -572
+1200
+590
+523
+547
+618
+434
+592
+553
+( 711 , 606 )
+Horizontal -676
+( 711 , 606 )
+Vertical -579
+1192
+575
+570
+618
+425
+584
+542
+( 722 , 610 )
+Horizontal -688
+( 722 , 610 )
+Vertical -584
+1181
+570
+541
+609
+573
+521
+( 729 , 610 )
+Horizontal -695
+( 729 , 610 )
+Vertical -584
+1174
+559
+535
+601
+410
+567
+528
+( 753 , 610 )
+Horizontal -718
+( 753 , 610 )
+Vertical -581
+1150
+533
+478
+501
+575
+592
+384
+542
+500
+( 800 , 620 )
+Horizontal -769
+( 800 , 620 )
+Vertical -595
+1105
+490
+449
+533
+340
+498
+460
+( 859 , 638 )
+Horizontal -835
+( 859 , 638 )
+Vertical -616
+1049
+443
+413
+382
+408
+482
+446
+404
+103
+( 932 , 653 )
+Horizontal -905
+( 932 , 653 )
+Vertical -630
+975
+380
+406
+349
+371
+332
+( 989 , 657 )
+Horizontal -963
+( 989 , 657 )
+Vertical -634
+918
+312
+282
+350
+290
+314
+275
+109
+( 1056 , 660 )
+Horizontal -1032
+( 1056 , 660 )
+Vertical -638
+852
+234
+285
+250
+210
+( 650 , 471 )
+Horizontal -567
+( 650 , 471 )
+Vertical -406
+1229
+78
+193
+( 643 , 473 )
+Horizontal -558
+( 643 , 473 )
+Vertical -409
+1235
+( 644 , 481 )
+Horizontal -555
+( 644 , 481 )
+Vertical -416
+1232
+846
+( 657 , 540 )
+Horizontal -582
+( 657 , 540 )
+Vertical -485
+1226
+852
+238
+122
+( 654 , 597 )
+Horizontal -588
+( 654 , 597 )
+Vertical -549
+1233
+855
+220
+122
+200
+209
+106
+140
+( 782 , 637 )
+Horizontal -774
+( 782 , 637 )
+Vertical -632
+1134
+( 710 , 823 )
+Horizontal -700
+( 710 , 823 )
+Vertical -817
+1205
+( 710 , 862 )
+Horizontal -694
+( 710 , 862 )
+Vertical -852
+1202
+( 728 , 868 )
+Horizontal -716
+( 728 , 868 )
+Vertical -860
+1186
+( 763 , 866 )
+Horizontal -757
+( 763 , 866 )
+Vertical -861
+1154
+( 859 , 1023 )
+Horizontal -842
+( 859 , 1023 )
+Vertical -1013
+1053
+( 780 , 914 )
+Horizontal -752
+( 780 , 914 )
+Vertical -905
+1126
+( 752 , 819 )
+Horizontal -699
+( 752 , 819 )
+Vertical -790
+1142
+( 727 , 702 )
+Horizontal -672
+( 727 , 702 )
+Vertical -657
+1166
+174
+( 728 , 673 )
+Horizontal -680
+( 728 , 673 )
+Vertical -638
+1168
+38
+( 762 , 672 )
+Horizontal -750
+( 762 , 672 )
+Vertical -663
+1152
+15
+( 736 , 618 )
+Horizontal -674
+( 736 , 618 )
+Vertical -571
+1153
+( 773 , 653 )
+Horizontal -729
+( 773 , 653 )
+Vertical -609
+1125
+( 827 , 716 )
+Horizontal -806
+( 827 , 716 )
+Vertical -684
+1083
+( 722 , 834 )
+Horizontal -690
+( 722 , 834 )
+Vertical -815
+1182
+16
+( 774 , 842 )
+Horizontal -736
+( 774 , 842 )
+Vertical -816
+1127
+59
+( 786 , 770 )
+Horizontal -750
+( 786 , 770 )
+Vertical -743
+1116
+( 805 , 712 )
+Horizontal -771
+( 805 , 712 )
+Vertical -696
+1098
+( 817 , 697 )
+Horizontal -787
+( 817 , 697 )
+Vertical -684
+1088
+( 859 , 660 )
+Horizontal -854
+( 859 , 660 )
+Vertical -655
+1059
+( 1106 , 742 )
+Horizontal -1101
+( 1106 , 742 )
+Vertical -737
+812
+43
+29
+( 1075 , 747 )
+Horizontal -1057
+( 1075 , 747 )
+Vertical -736
+836
+403
+42
+27
+( 1058 , 747 )
+Horizontal -1053
+( 1058 , 747 )
+Vertical -742
+860
+42
+29
+( 1063 , 757 )
+Horizontal -1052
+( 1063 , 757 )
+Vertical -746
+852
+38
+25
+( 1122 , 1054 )
+Horizontal -1090
+( 1122 , 1054 )
+Vertical -1028
+782
+( 668 , 664 )
+Horizontal -625
+( 668 , 664 )
+Vertical -656
+1231
+105
+15
+( 662 , 611 )
+Horizontal -648
+( 662 , 611 )
+Vertical -600
+1251
+818
+141
+52
+( 650 , 599 )
+Horizontal -592
+( 650 , 599 )
+Vertical -576
+1241
+787
+108
+14
+( 694 , 589 )
+Horizontal -686
+( 694 , 589 )
+Vertical -584
+1222
+120
+20
+( 673 , 514 )
+Horizontal -637
+( 673 , 514 )
+Vertical -507
+1229
+780
+205
+156
+50
+( 666 , 505 )
+Horizontal -620
+( 666 , 505 )
+Vertical -487
+1231
+784
+195
+146
+38
+( 650 , 497 )
+Horizontal -579
+( 650 , 497 )
+Vertical -440
+1235
+775
+127
+19
+( 644 , 489 )
+Horizontal -568
+( 644 , 489 )
+Vertical -433
+1238
+770
+175
+126
+18
+( 644 , 483 )
+Horizontal -572
+( 644 , 483 )
+Vertical -426
+1240
+774
+177
+125
+17
+( 620 , 444 )
+Horizontal -542
+( 620 , 444 )
+Vertical -383
+1261
+791
+176
+125
+17
+( 606 , 417 )
+Horizontal -527
+( 606 , 417 )
+Vertical -357
+1275
+125
+17
+( 597 , 401 )
+Horizontal -521
+( 597 , 401 )
+Vertical -340
+1285
+823
+179
+126
+18
+( 612 , 407 )
+Horizontal -533
+( 612 , 407 )
+Vertical -345
+1269
+800
+125
+14
+( 613 , 391 )
+Horizontal -534
+( 613 , 391 )
+Vertical -329
+1268
+793
+164
+124
+16
+( 619 , 376 )
+Horizontal -540
+( 619 , 376 )
+Vertical -315
+1262
+798
+124
+16
+( 616 , 364 )
+Horizontal -537
+( 616 , 364 )
+Vertical -302
+1265
+801
+121
+13
+( 607 , 341 )
+Horizontal -528
+( 607 , 341 )
+Vertical -280
+1274
+149
+120
+13
+( 601 , 320 )
+Horizontal -522
+( 601 , 320 )
+Vertical -257
+1280
+809
+157
+120
+15
+( 607 , 278 )
+Horizontal -528
+( 607 , 278 )
+Vertical -217
+1274
+810
+119
+15
+( 596 , 236 )
+Horizontal -514
+( 596 , 236 )
+Vertical -178
+1283
+816
+115
+14
+( 559 , 192 )
+Horizontal -478
+( 559 , 192 )
+Vertical -134
+1321
+855
+116
+14
+( 487 , 143 )
+Horizontal -410
+( 487 , 143 )
+Vertical -89
+1395
+117
+14
+( 404 , 102 )
+Horizontal -328
+( 404 , 102 )
+Vertical -48
+1478
+1015
+105
+14
+( 314 , 86 )
+Horizontal -238
+( 314 , 86 )
+Vertical -36
+1568
+1099
+( 263 , 80 )
+Horizontal -189
+( 263 , 80 )
+Vertical -30
+1620
+1151
+( 223 , 86 )
+Horizontal -151
+( 223 , 86 )
+Vertical -37
+1661
+1192
+( 170 , 77 )
+Horizontal -98
+( 170 , 77 )
+Vertical -30
+1714
+1248
+( 156 , 71 )
+Horizontal -88
+( 156 , 71 )
+Vertical -21
+1730
+1264
+( 168 , 75 )
+Horizontal -95
+( 168 , 75 )
+Vertical -26
+1716
+( 179 , 74 )
+Horizontal -105
+( 179 , 74 )
+Vertical -25
+1704
+( 186 , 69 )
+Horizontal -119
+( 186 , 69 )
+Vertical -21
+1701
+( 182 , 61 )
+Horizontal -106
+( 182 , 61 )
+Vertical -12
+1700
+1232
+( 184 , 59 )
+Horizontal -110
+( 184 , 59 )
+Vertical -11
+1699
+( 204 , 52 )
+Horizontal -132
+( 204 , 52 )
+Vertical -3
+1680
+( 217 , 42 )
+Horizontal -142
+( 217 , 42 )
+Vertical 9
+1666
+1196
+( 223 , 28 )
+Horizontal -151
+( 223 , 28 )
+Vertical 22
+1661
+1194
+( 228 , 17 )
+Horizontal -155
+( 228 , 17 )
+Vertical 33
+1656
+1194
+( 217 , 15 )
+Horizontal -145
+( 217 , 15 )
+Vertical 35
+1667
+( 209 , 15 )
+Horizontal -141
+( 209 , 15 )
+Vertical 34
+1677
+1219
+( 205 , 0 )
+Horizontal -132
+( 205 , 0 )
+Vertical 59
+1679
+( 202 , 0 )
+Horizontal -128
+( 202 , 0 )
+Vertical 57
+1681
+( 199 , 13 )
+Horizontal -127
+( 199 , 13 )
+Vertical 35
+1685
+( 185 , 18 )
+Horizontal -112
+( 185 , 18 )
+Vertical 30
+1699
+( 162 , 31 )
+Horizontal -90
+( 162 , 31 )
+Vertical 21
+1722
+1258
+( 138 , 37 )
+Horizontal -71
+( 138 , 37 )
+Vertical 15
+1749
+( 130 , 42 )
+Horizontal -58
+( 130 , 42 )
+Vertical 8
+1754
+( 116 , 51 )
+Horizontal -44
+( 116 , 51 )
+Vertical -2
+1768
+( 108 , 53 )
+Horizontal -40
+( 108 , 53 )
+Vertical -4
+1778
+1314
+( 83 , 53 )
+Horizontal -16
+( 83 , 53 )
+Vertical -5
+1804
+1344
+127
+( 67 , 53 )
+Horizontal 4
+( 67 , 53 )
+Vertical -5
+1818
+1358
+( 49 , 49 )
+Horizontal 16
+( 49 , 49 )
+Vertical 1
+1839
+( 43 , 42 )
+Horizontal 24
+( 43 , 42 )
+Vertical 4
+1844
+( 43 , 28 )
+Horizontal 23
+( 43 , 28 )
+Vertical 19
+1844
+1385
+( 43 , 22 )
+Horizontal 23
+( 43 , 22 )
+Vertical 25
+1844
+1381
+( 46 , 0 )
+Horizontal 16
+( 46 , 0 )
+Vertical 53
+1843
+1381
+( 48 , 0 )
+Horizontal 19
+( 48 , 0 )
+Vertical 50
+1839
+1374
+( 49 , 0 )
+Horizontal 18
+( 49 , 0 )
+Vertical 49
+1838
+( 50 , 0 )
+Horizontal 14
+( 50 , 0 )
+Vertical 50
+1838
+( 44 , 0 )
+Horizontal 20
+( 44 , 0 )
+Vertical 55
+1844
+1388
+( 36 , 15 )
+Horizontal 30
+( 36 , 15 )
+Vertical 33
+1851
+( 31 , 33 )
+Horizontal 36
+( 31 , 33 )
+Vertical 14
+1856
+1391
+( 23 , 66 )
+Horizontal 44
+( 23 , 66 )
+Vertical -16
+1864
+1398
+( 0 , 83 )
+Horizontal 55
+( 0 , 83 )
+Vertical -34
+1893
+( 0 , 98 )
+Horizontal 48
+( 0 , 98 )
+Vertical -47
+1896
+44
+( 0 , 113 )
+Horizontal 42
+( 0 , 113 )
+Vertical -62
+1899
+102
+54
+( 0 , 127 )
+Horizontal 31
+( 0 , 127 )
+Vertical -78
+1905
+1462
+55
+( 0 , 132 )
+Horizontal 32
+( 0 , 132 )
+Vertical -83
+1904
+1461
+48
+( 0 , 136 )
+Horizontal 38
+( 0 , 136 )
+Vertical -86
+1901
+1450
+100
+65
+( 133 , 215 )
+Horizontal -78
+( 133 , 215 )
+Vertical -169
+1760
+1306
+106
+12
+( 383 , 403 )
+Horizontal -339
+( 383 , 403 )
+Vertical -364
+1515
+102
+17
+( 620 , 624 )
+Horizontal -573
+( 620 , 624 )
+Vertical -584
+1277
+827
+83
+6
+( 842 , 758 )
+Horizontal -802
+( 842 , 758 )
+Vertical -721
+1058
+608
+4
+63
+( 943 , 776 )
+Horizontal -909
+( 943 , 776 )
+Vertical -748
+960
+67
+( 944 , 809 )
+Horizontal -919
+( 944 , 809 )
+Vertical -786
+964
+69
+( 908 , 794 )
+Horizontal -879
+( 908 , 794 )
+Vertical -770
+998
+558
+62
+( 892 , 795 )
+Horizontal -862
+( 892 , 795 )
+Vertical -771
+1013
+58
+( 889 , 794 )
+Horizontal -866
+( 889 , 794 )
+Vertical -785
+1020
+583
+60
+( 884 , 791 )
+Horizontal -855
+( 884 , 791 )
+Vertical -770
+1022
+59
+( 902 , 783 )
+Horizontal -872
+( 902 , 783 )
+Vertical -758
+1003
+58
+( 896 , 779 )
+Horizontal -866
+( 896 , 779 )
+Vertical -757
+1009
+59
+( 887 , 773 )
+Horizontal -856
+( 887 , 773 )
+Vertical -748
+1018
+578
+56
+( 889 , 775 )
+Horizontal -862
+( 889 , 775 )
+Vertical -751
+1018
+579
+58
+( 878 , 766 )
+Horizontal -846
+( 878 , 766 )
+Vertical -741
+1026
+580
+57
+( 878 , 747 )
+Horizontal -849
+( 878 , 747 )
+Vertical -722
+1028
+588
+60
+( 872 , 728 )
+Horizontal -836
+( 872 , 728 )
+Vertical -701
+1030
+586
+55
+( 841 , 706 )
+Horizontal -802
+( 841 , 706 )
+Vertical -674
+1060
+57
+( 775 , 677 )
+Horizontal -734
+( 775 , 677 )
+Vertical -644
+1125
+672
+60
+( 718 , 661 )
+Horizontal -678
+( 718 , 661 )
+Vertical -629
+1182
+102
+63
+( 678 , 656 )
+Horizontal -636
+( 678 , 656 )
+Vertical -625
+1221
+769
+65
+( 619 , 643 )
+Horizontal -576
+( 619 , 643 )
+Vertical -608
+1280
+71
+( 577 , 621 )
+Horizontal -534
+( 577 , 621 )
+Vertical -584
+1322
+876
+70
+( 529 , 605 )
+Horizontal -483
+( 529 , 605 )
+Vertical -569
+1368
+914
+69
+( 493 , 587 )
+Horizontal -450
+( 493 , 587 )
+Vertical -550
+1406
+955
+4
+72
+( 457 , 578 )
+Horizontal -410
+( 457 , 578 )
+Vertical -541
+1440
+992
+0
+68
+( 427 , 573 )
+Horizontal -384
+( 427 , 573 )
+Vertical -537
+1472
+1020
+5
+76
+( 396 , 566 )
+Horizontal -354
+( 396 , 566 )
+Vertical -529
+1503
+1064
+72
+( 390 , 568 )
+Horizontal -352
+( 390 , 568 )
+Vertical -532
+1511
+4
+77
+( 415 , 579 )
+Horizontal -372
+( 415 , 579 )
+Vertical -542
+1484
+1036
+7
+76
+( 481 , 593 )
+Horizontal -439
+( 481 , 593 )
+Vertical -559
+1418
+79
+( 480 , 593 )
+Horizontal -437
+( 480 , 593 )
+Vertical -559
+1419
+966
+73
+( 471 , 598 )
+Horizontal -426
+( 471 , 598 )
+Vertical -562
+1427
+74
+7
+( 468 , 587 )
+Horizontal -425
+( 468 , 587 )
+Vertical -552
+1431
+78
+7
+( 478 , 587 )
+Horizontal -434
+( 478 , 587 )
+Vertical -549
+1420
+76
+( 510 , 593 )
+Horizontal -468
+( 510 , 593 )
+Vertical -559
+1389
+79
+( 512 , 598 )
+Horizontal -470
+( 512 , 598 )
+Vertical -561
+1387
+942
+81
+( 559 , 699 )
+Horizontal -529
+( 559 , 699 )
+Vertical -683
+1346
+907
+59
+( 594 , 488 )
+Horizontal -524
+( 594 , 488 )
+Vertical -445
+1291
+8
+( 593 , 463 )
+Horizontal -522
+( 593 , 463 )
+Vertical -422
+1292
+825
+8
+( 584 , 405 )
+Horizontal -508
+( 584 , 405 )
+Vertical -349
+1298
+829
+1
+( 584 , 360 )
+Horizontal -507
+( 584 , 360 )
+Vertical -307
+1298
+5
+( 592 , 316 )
+Horizontal -511
+( 592 , 316 )
+Vertical -262
+1288
+822
+0
+( 624 , 233 )
+Horizontal -545
+( 624 , 233 )
+Vertical -174
+1257
+787
+4
+( 612 , 216 )
+Horizontal -534
+( 612 , 216 )
+Vertical -156
+1269
+805
+1
+( 583 , 223 )
+Horizontal -505
+( 583 , 223 )
+Vertical -162
+1298
+834
+1
+( 529 , 207 )
+Horizontal -456
+( 529 , 207 )
+Vertical -152
+1355
+0
+( 456 , 184 )
+Horizontal -382
+( 456 , 184 )
+Vertical -123
+1427
+965
+1
+( 378 , 183 )
+Horizontal -305
+( 378 , 183 )
+Vertical -122
+1506
+11
+( 314 , 181 )
+Horizontal -236
+( 314 , 181 )
+Vertical -120
+1567
+7
+( 238 , 185 )
+Horizontal -168
+( 238 , 185 )
+Vertical -123
+1647
+13
+( 182 , 164 )
+Horizontal -111
+( 182 , 164 )
+Vertical -104
+1703
+67
+33
+( 156 , 149 )
+Horizontal -90
+( 156 , 149 )
+Vertical -92
+1731
+39
+( 144 , 136 )
+Horizontal -77
+( 144 , 136 )
+Vertical -77
+1743
+19
+( 142 , 123 )
+Horizontal -74
+( 142 , 123 )
+Vertical -63
+1744
+17
+41
+( 150 , 104 )
+Horizontal -83
+( 150 , 104 )
+Vertical -47
+1737
+31
+( 151 , 93 )
+Horizontal -83
+( 151 , 93 )
+Vertical -35
+1735
+27
+32
+( 162 , 69 )
+Horizontal -95
+( 162 , 69 )
+Vertical -11
+1725
+35
+48
+( 167 , 52 )
+Horizontal -100
+( 167 , 52 )
+Vertical 4
+1720
+58
+( 156 , 39 )
+Horizontal -94
+( 156 , 39 )
+Vertical 17
+1733
+20
+( 145 , 23 )
+Horizontal -79
+( 145 , 23 )
+Vertical 34
+1742
+25
+54
+( 103 , 21 )
+Horizontal -38
+( 103 , 21 )
+Vertical 36
+1785
+41
+( 59 , 18 )
+Horizontal 3
+( 59 , 18 )
+Vertical 38
+1830
+( 40 , 23 )
+Horizontal 22
+( 40 , 23 )
+Vertical 34
+1849
+52
+( 37 , 23 )
+Horizontal 24
+( 37 , 23 )
+Vertical 31
+1853
+( 217 , 33 )
+Horizontal -211
+( 217 , 33 )
+Vertical -26
+1700
+1265
+( 36 , 25 )
+Horizontal 25
+( 36 , 25 )
+Vertical 27
+1854
+1391
+( 36 , 26 )
+Horizontal 25
+( 36 , 26 )
+Vertical 29
+1854
+59
+( 205 , 38 )
+Horizontal -192
+( 205 , 38 )
+Vertical -29
+1709
+163
+( 30 , 33 )
+Horizontal 31
+( 30 , 33 )
+Vertical 20
+1860
+36
+( 18 , 41 )
+Horizontal 43
+( 18 , 41 )
+Vertical 13
+1872
+59
+( 193 , 40 )
+Horizontal -180
+( 193 , 40 )
+Vertical -17
+1721
+186
+( 25 , 37 )
+Horizontal 40
+( 25 , 37 )
+Vertical 18
+1863
+36
+( 58 , 31 )
+Horizontal 0
+( 58 , 31 )
+Vertical 23
+1833
+55
+( 66 , 26 )
+Horizontal -5
+( 66 , 26 )
+Vertical 29
+1824
+53
+( 94 , 50 )
+Horizontal -31
+( 94 , 50 )
+Vertical 4
+1795
+1339
+60
+( 120 , 80 )
+Horizontal -59
+( 120 , 80 )
+Vertical -28
+1770
+53
+( 119 , 77 )
+Horizontal -58
+( 119 , 77 )
+Vertical -24
+1771
+( 96 , 70 )
+Horizontal -34
+( 96 , 70 )
+Vertical -15
+1793
+( 91 , 69 )
+Horizontal -30
+( 91 , 69 )
+Vertical -19
+1799
+38
+( 86 , 85 )
+Horizontal -26
+( 86 , 85 )
+Vertical -33
+1804
+12
+( 66 , 94 )
+Horizontal 0
+( 66 , 94 )
+Vertical -39
+1821
+36
+17
+( 55 , 102 )
+Horizontal 5
+( 55 , 102 )
+Vertical -48
+1835
+1375
+30
+59
+( 27 , 95 )
+Horizontal 36
+( 27 , 95 )
+Vertical -39
+1862
+59
+18
+( 0 , 101 )
+Horizontal 49
+( 0 , 101 )
+Vertical -46
+1896
+13
+42
+( 0 , 102 )
+Horizontal 48
+( 0 , 102 )
+Vertical -50
+1896
+1445
+( 0 , 123 )
+Horizontal 12
+( 0 , 123 )
+Vertical -87
+1914
+1478
+( 0 , 87 )
+Horizontal 20
+( 0 , 87 )
+Vertical -36
+1910
+( 0 , 69 )
+Horizontal 49
+( 0 , 69 )
+Vertical -18
+1896
+31
+( 0 , 52 )
+Horizontal 60
+( 0 , 52 )
+Vertical 2
+1890
+23
+( 23 , 40 )
+Horizontal 44
+( 23 , 40 )
+Vertical 12
+1864
+65
+( 42 , 30 )
+Horizontal 25
+( 42 , 30 )
+Vertical 24
+1845
+1
+66
+( 50 , 20 )
+Horizontal 21
+( 50 , 20 )
+Vertical 33
+1835
+( 60 , 17 )
+Horizontal 6
+( 60 , 17 )
+Vertical 35
+1827
+1363
+( 67 , 18 )
+Horizontal -1
+( 67 , 18 )
+Vertical 36
+1820
+( 78 , 19 )
+Horizontal -10
+( 78 , 19 )
+Vertical 34
+1808
+( 50 , 17 )
+Horizontal 21
+( 50 , 17 )
+Vertical 36
+1835
+1366
+( 31 , 25 )
+Horizontal 35
+( 31 , 25 )
+Vertical 27
+1856
+( 23 , 26 )
+Horizontal 46
+( 23 , 26 )
+Vertical 26
+1863
+67
+( 24 , 27 )
+Horizontal 38
+( 24 , 27 )
+Vertical 25
+1865
+61
+( 25 , 24 )
+Horizontal 36
+( 25 , 24 )
+Vertical 29
+1865
+1409
+( 19 , 31 )
+Horizontal 46
+( 19 , 31 )
+Vertical 21
+1869
+1405
+30
+( 12 , 33 )
+Horizontal 55
+( 12 , 33 )
+Vertical 19
+1875
+1417
+( 18 , 31 )
+Horizontal 50
+( 18 , 31 )
+Vertical 23
+1868
+( 26 , 38 )
+Horizontal 44
+( 26 , 38 )
+Vertical 15
+1859
+36
+( 30 , 41 )
+Horizontal 36
+( 30 , 41 )
+Vertical 12
+1857
+1394
+64
+( 36 , 41 )
+Horizontal 30
+( 36 , 41 )
+Vertical 11
+1851
+54
+( 37 , 44 )
+Horizontal 29
+( 37 , 44 )
+Vertical 8
+1850
+65
+( 36 , 39 )
+Horizontal 31
+( 36 , 39 )
+Vertical 14
+1851
+66
+( 36 , 41 )
+Horizontal 31
+( 36 , 41 )
+Vertical 10
+1851
+66
+( 36 , 41 )
+Horizontal 31
+( 36 , 41 )
+Vertical 12
+1851
+1385
+19
+66
+( 48 , 11 )
+Horizontal 18
+( 48 , 11 )
+Vertical 43
+1839
+( 66 , 0 )
+Horizontal 0
+( 66 , 0 )
+Vertical 50
+1821
+1357
+( 73 , 0 )
+Horizontal -7
+( 73 , 0 )
+Vertical 49
+1814
+( 84 , 0 )
+Horizontal -18
+( 84 , 0 )
+Vertical 55
+1803
+1346
+( 91 , 0 )
+Horizontal -24
+( 91 , 0 )
+Vertical 55
+1796
+( 98 , 0 )
+Horizontal -28
+( 98 , 0 )
+Vertical 50
+1787
+( 106 , 0 )
+Horizontal -38
+( 106 , 0 )
+Vertical 51
+1780
+( 99 , 0 )
+Horizontal -34
+( 99 , 0 )
+Vertical 61
+1789
+( 69 , 26 )
+Horizontal 0
+( 69 , 26 )
+Vertical 28
+1817
+53
+( 48 , 31 )
+Horizontal 19
+( 48 , 31 )
+Vertical 22
+1839
+66
+( 42 , 31 )
+Horizontal 25
+( 42 , 31 )
+Vertical 24
+1845
+( 33 , 43 )
+Horizontal 31
+( 33 , 43 )
+Vertical 10
+1855
+65
+( 18 , 58 )
+Horizontal 49
+( 18 , 58 )
+Vertical -4
+1869
+18
+( 0 , 69 )
+Horizontal 55
+( 0 , 69 )
+Vertical -17
+1893
+30
+( 0 , 59 )
+Horizontal 67
+( 0 , 59 )
+Vertical -7
+1887
+22
+40
+( 20 , 58 )
+Horizontal 45
+( 20 , 58 )
+Vertical -4
+1868
+30
+13
+( 36 , 56 )
+Horizontal 32
+( 36 , 56 )
+Vertical -3
+1850
+8
+54
+( 43 , 56 )
+Horizontal 23
+( 43 , 56 )
+Vertical -4
+1844
+24
+( 48 , 51 )
+Horizontal 24
+( 48 , 51 )
+Vertical 3
+1836
+1372
+23
+72
+( 65 , 47 )
+Horizontal 4
+( 65 , 47 )
+Vertical 7
+1821
+25
+( 108 , 14 )
+Horizontal -40
+( 108 , 14 )
+Vertical 39
+1778
+( 120 , 0 )
+Horizontal -54
+( 120 , 0 )
+Vertical 53
+1767
+( 115 , 0 )
+Horizontal -54
+( 115 , 0 )
+Vertical 46
+1775
+1313
+( 108 , 0 )
+Horizontal -47
+( 108 , 0 )
+Vertical 37
+1782
+1327
+( 111 , 0 )
+Horizontal -48
+( 111 , 0 )
+Vertical 38
+1778
+( 108 , 0 )
+Horizontal -46
+( 108 , 0 )
+Vertical 31
+1781
+( 106 , 0 )
+Horizontal -44
+( 106 , 0 )
+Vertical 27
+1783
+( 97 , 0 )
+Horizontal -31
+( 97 , 0 )
+Vertical 34
+1790
+1333
+( 83 , 0 )
+Horizontal -21
+( 83 , 0 )
+Vertical 37
+1806
+( 72 , 0 )
+Horizontal -10
+( 72 , 0 )
+Vertical 45
+1817
+( 73 , 0 )
+Horizontal -12
+( 73 , 0 )
+Vertical 54
+1817
+( 66 , 0 )
+Horizontal 0
+( 66 , 0 )
+Vertical 58
+1821
+( 67 , 12 )
+Horizontal -1
+( 67 , 12 )
+Vertical 40
+1820
+( 61 , 22 )
+Horizontal 6
+( 61 , 22 )
+Vertical 31
+1826
+1360
+( 48 , 30 )
+Horizontal 24
+( 48 , 30 )
+Vertical 22
+1836
+65
+( 54 , 35 )
+Horizontal 12
+( 54 , 35 )
+Vertical 17
+1833
+1370
+( 45 , 42 )
+Horizontal 20
+( 45 , 42 )
+Vertical 10
+1843
+66
+( 45 , 45 )
+Horizontal 24
+( 45 , 45 )
+Vertical 7
+1841
+71
+( 43 , 46 )
+Horizontal 18
+( 43 , 46 )
+Vertical 6
+1847
+19
+67
+( 37 , 44 )
+Horizontal 34
+( 37 , 44 )
+Vertical 8
+1848
+72
+( 60 , 35 )
+Horizontal 6
+( 60 , 35 )
+Vertical 15
+1827
+66
+( 72 , 0 )
+Horizontal -5
+( 72 , 0 )
+Vertical 62
+1815
+( 69 , 13 )
+Horizontal -4
+( 69 , 13 )
+Vertical 40
+1819
+( 68 , 0 )
+Horizontal 2
+( 68 , 0 )
+Vertical 56
+1817
+( 79 , 0 )
+Horizontal -13
+( 79 , 0 )
+Vertical 52
+1808
+( 79 , 0 )
+Horizontal -12
+( 79 , 0 )
+Vertical 53
+1808
+( 69 , 0 )
+Horizontal -4
+( 69 , 0 )
+Vertical 59
+1819
+( 48 , 16 )
+Horizontal 18
+( 48 , 16 )
+Vertical 35
+1839
+( 0 , 31 )
+Horizontal 73
+( 0 , 31 )
+Vertical 20
+1884
+1422
+47
+( 19 , 25 )
+Horizontal 48
+( 19 , 25 )
+Vertical 27
+1868
+37
+( 25 , 25 )
+Horizontal 40
+( 25 , 25 )
+Vertical 29
+1863
+( 24 , 28 )
+Horizontal 48
+( 24 , 28 )
+Vertical 24
+1860
+1394
+66
+( 12 , 34 )
+Horizontal 56
+( 12 , 34 )
+Vertical 17
+1874
+( 13 , 36 )
+Horizontal 53
+( 13 , 36 )
+Vertical 15
+1874
+59
+( 31 , 32 )
+Horizontal 34
+( 31 , 32 )
+Vertical 22
+1857
+65
+( 37 , 27 )
+Horizontal 30
+( 37 , 27 )
+Vertical 24
+1850
+18
+49
+( 37 , 23 )
+Horizontal 34
+( 37 , 23 )
+Vertical 30
+1848
+( 40 , 22 )
+Horizontal 24
+( 40 , 22 )
+Vertical 31
+1848
+( 37 , 25 )
+Horizontal 29
+( 37 , 25 )
+Vertical 28
+1850
+17
+( 40 , 31 )
+Horizontal 24
+( 40 , 31 )
+Vertical 20
+1848
+1390
+( 54 , 45 )
+Horizontal 12
+( 54 , 45 )
+Vertical 7
+1833
+35
+( 61 , 65 )
+Horizontal 12
+( 61 , 65 )
+Vertical -12
+1823
+1355
+55
+37
+54
+( 79 , 113 )
+Horizontal -13
+( 79 , 113 )
+Vertical -61
+1808
+18
+( 67 , 161 )
+Horizontal -1
+( 67 , 161 )
+Vertical -109
+1820
+35
+( 78 , 169 )
+Horizontal -16
+( 78 , 169 )
+Vertical -119
+1811
+62
+( 105 , 186 )
+Horizontal -41
+( 105 , 186 )
+Vertical -134
+1783
+49
+48
+( 464 , 478 )
+Horizontal -434
+( 464 , 478 )
+Vertical -457
+1441
+995
+( 806 , 1036 )
+Horizontal -783
+( 806 , 1036 )
+Vertical -1022
+1103
+661
+( 824 , 1055 )
+Horizontal -797
+( 824 , 1055 )
+Vertical -1030
+1083
+49
+( 852 , 1003 )
+Horizontal -832
+( 852 , 1003 )
+Vertical -991
+1058
+28
+( 752 , 995 )
+Horizontal -725
+( 752 , 995 )
+Vertical -978
+1155
+121
+( 756 , 995 )
+Horizontal -725
+( 756 , 995 )
+Vertical -979
+1149
+49
+708
+( 679 , 949 )
+Horizontal -650
+( 679 , 949 )
+Vertical -936
+1227
+128
+787
+( 776 , 933 )
+Horizontal -750
+( 776 , 933 )
+Vertical -919
+1131
+34
+693
+( 718 , 957 )
+Horizontal -683
+( 718 , 957 )
+Vertical -939
+1185
+50
+520
+( 632 , 919 )
+Horizontal -598
+( 632 , 919 )
+Vertical -905
+1271
+137
+607
+( 731 , 901 )
+Horizontal -700
+( 731 , 901 )
+Vertical -888
+1174
+41
+511
+( 714 , 950 )
+Horizontal -678
+( 714 , 950 )
+Vertical -933
+1188
+48
+( 625 , 913 )
+Horizontal -594
+( 625 , 913 )
+Vertical -895
+1280
+142
+( 720 , 894 )
+Horizontal -690
+( 720 , 894 )
+Vertical -880
+1185
+48
+( 770 , 998 )
+Horizontal -734
+( 770 , 998 )
+Vertical -980
+1132
+48
+( 685 , 951 )
+Horizontal -650
+( 685 , 951 )
+Vertical -934
+1218
+134
+( 781 , 932 )
+Horizontal -750
+( 781 , 932 )
+Vertical -916
+1124
+42
+( 595 , 850 )
+Horizontal -554
+( 595 , 850 )
+Vertical -831
+1305
+637
+( 631 , 749 )
+Horizontal -588
+( 631 , 749 )
+Vertical -716
+1268
+11
+( 649 , 701 )
+Horizontal -602
+( 649 , 701 )
+Vertical -669
+1248
+798
+8
+( 660 , 684 )
+Horizontal -617
+( 660 , 684 )
+Vertical -650
+1239
+12
+( 668 , 671 )
+Horizontal -622
+( 668 , 671 )
+Vertical -637
+1229
+9
+( 699 , 659 )
+Horizontal -650
+( 699 , 659 )
+Vertical -620
+1197
+12
+( 672 , 632 )
+Horizontal -617
+( 672 , 632 )
+Vertical -590
+1221
+13
+( 659 , 573 )
+Horizontal -601
+( 659 , 573 )
+Vertical -525
+1232
+124
+19
+( 600 , 525 )
+Horizontal -538
+( 600 , 525 )
+Vertical -478
+1289
+17
+( 540 , 502 )
+Horizontal -480
+( 540 , 502 )
+Vertical -455
+1350
+12
+( 456 , 456 )
+Horizontal -395
+( 456 , 456 )
+Vertical -410
+1434
+12
+( 368 , 399 )
+Horizontal -306
+( 368 , 399 )
+Vertical -354
+1521
+14
+( 320 , 360 )
+Horizontal -256
+( 320 , 360 )
+Vertical -315
+1568
+13
+( 324 , 339 )
+Horizontal -266
+( 324 , 339 )
+Vertical -294
+1567
+14
+( 325 , 313 )
+Horizontal -265
+( 325 , 313 )
+Vertical -269
+1565
+13
+( 324 , 279 )
+Horizontal -264
+( 324 , 279 )
+Vertical -235
+1566
+12
+( 319 , 238 )
+Horizontal -256
+( 319 , 238 )
+Vertical -195
+1570
+14
+( 312 , 208 )
+Horizontal -252
+( 312 , 208 )
+Vertical -166
+1578
+14
+( 282 , 199 )
+Horizontal -220
+( 282 , 199 )
+Vertical -154
+1607
+16
+( 251 , 172 )
+Horizontal -192
+( 251 , 172 )
+Vertical -127
+1640
+39
+4
+14
+21
+( 200 , 161 )
+Horizontal -137
+( 200 , 161 )
+Vertical -118
+1689
+9
+( 175 , 156 )
+Horizontal -115
+( 175 , 156 )
+Vertical -115
+1715
+5
+( 157 , 158 )
+Horizontal -102
+( 157 , 158 )
+Vertical -116
+1736
+31
+( 138 , 169 )
+Horizontal -84
+( 138 , 169 )
+Vertical -128
+1755
+10
+( 122 , 163 )
+Horizontal -69
+( 122 , 163 )
+Vertical -122
+1772
+6
+( 260 , 200 )
+Horizontal -255
+( 260 , 200 )
+Vertical -187
+1658
+91
+120
+( 115 , 169 )
+Horizontal -61
+( 115 , 169 )
+Vertical -127
+1778
+5
+24
+( 103 , 172 )
+Horizontal -50
+( 103 , 172 )
+Vertical -132
+1791
+2
+30
+( 235 , 216 )
+Horizontal -225
+( 235 , 216 )
+Vertical -206
+1680
+113
+( 92 , 182 )
+Horizontal -44
+( 92 , 182 )
+Vertical -140
+1804
+8
+( 226 , 208 )
+Horizontal -218
+( 226 , 208 )
+Vertical -203
+1690
+106
+( 84 , 177 )
+Horizontal -36
+( 84 , 177 )
+Vertical -136
+1812
+4
+( 240 , 199 )
+Horizontal -233
+( 240 , 199 )
+Vertical -186
+1677
+138
+113
+( 91 , 162 )
+Horizontal -36
+( 91 , 162 )
+Vertical -122
+1802
+37
+12
+( 254 , 182 )
+Horizontal -244
+( 254 , 182 )
+Vertical -171
+1661
+131
+96
+( 114 , 153 )
+Horizontal -64
+( 114 , 153 )
+Vertical -111
+1781
+31
+4
+( 270 , 183 )
+Horizontal -264
+( 270 , 183 )
+Vertical -176
+1647
+113
+( 120 , 147 )
+Horizontal -66
+( 120 , 147 )
+Vertical -106
+1773
+11
+( 144 , 134 )
+Horizontal -92
+( 144 , 134 )
+Vertical -94
+1750
+15
+( 156 , 126 )
+Horizontal -100
+( 156 , 126 )
+Vertical -87
+1736
+31
+( 168 , 118 )
+Horizontal -113
+( 168 , 118 )
+Vertical -79
+1725
+12
+( 313 , 162 )
+Horizontal -306
+( 313 , 162 )
+Vertical -154
+1604
+128
+( 170 , 118 )
+Horizontal -117
+( 170 , 118 )
+Vertical -78
+1724
+31
+( 170 , 116 )
+Horizontal -118
+( 170 , 116 )
+Vertical -76
+1724
+7
+( 174 , 111 )
+Horizontal -120
+( 174 , 111 )
+Vertical -70
+1719
+6
+( 302 , 145 )
+Horizontal -292
+( 302 , 145 )
+Vertical -133
+1613
+114
+( 158 , 109 )
+Horizontal -104
+( 158 , 109 )
+Vertical -69
+1735
+14
+( 78 , 91 )
+Horizontal -29
+( 78 , 91 )
+Vertical -52
+1818
+17
+( 13 , 88 )
+Horizontal 35
+( 13 , 88 )
+Vertical -48
+1883
+30
+( 157 , 96 )
+Horizontal -146
+( 157 , 96 )
+Vertical -74
+1758
+114
+( 24 , 83 )
+Horizontal 21
+( 24 , 83 )
+Vertical -46
+1874
+15
+( 152 , 102 )
+Horizontal -145
+( 152 , 102 )
+Vertical -77
+1765
+128
+( 14 , 87 )
+Horizontal 32
+( 14 , 87 )
+Vertical -49
+1883
+29
+( 132 , 123 )
+Horizontal -121
+( 132 , 123 )
+Vertical -112
+1783
+125
+( 0 , 98 )
+Horizontal 37
+( 0 , 98 )
+Vertical -61
+1902
+19
+( 131 , 111 )
+Horizontal -121
+( 131 , 111 )
+Vertical -86
+1784
+( 0 , 98 )
+Horizontal 36
+( 0 , 98 )
+Vertical -61
+1902
+( 128 , 115 )
+Horizontal -110
+( 128 , 115 )
+Vertical -83
+1783
+1343
+( 0 , 98 )
+Horizontal 37
+( 0 , 98 )
+Vertical -59
+1902
+1452
+( 187 , 116 )
+Horizontal -181
+( 187 , 116 )
+Vertical -110
+1730
+125
+( 182 , 105 )
+Horizontal -177
+( 182 , 105 )
+Vertical -98
+1736
+119
+( 42 , 74 )
+Horizontal 8
+( 42 , 74 )
+Vertical -34
+1853
+24
+( 197 , 83 )
+Horizontal -183
+( 197 , 83 )
+Vertical -70
+1716
+( 60 , 52 )
+Horizontal -11
+( 60 , 52 )
+Vertical -13
+1836
+( 73 , 25 )
+Horizontal -20
+( 73 , 25 )
+Vertical 12
+1821
+1
+( 236 , 50 )
+Horizontal -231
+( 236 , 50 )
+Vertical -45
+1682
+( 89 , 0 )
+Horizontal -40
+( 89 , 0 )
+Vertical 42
+1807
+( 248 , 36 )
+Horizontal -239
+( 248 , 36 )
+Vertical -29
+1668
+( 108 , 0 )
+Horizontal -60
+( 108 , 0 )
+Vertical 29
+1788
+( 127 , 0 )
+Horizontal -72
+( 127 , 0 )
+Vertical 40
+1766
+( 138 , 0 )
+Horizontal -90
+( 138 , 0 )
+Vertical 37
+1758
+( 126 , 0 )
+Horizontal -77
+( 126 , 0 )
+Vertical 38
+1770
+( 110 , 0 )
+Horizontal -57
+( 110 , 0 )
+Vertical 49
+1784
+( 99 , 26 )
+Horizontal -48
+( 99 , 26 )
+Vertical 12
+1796
+34
+( 92 , 32 )
+Horizontal -38
+( 92 , 32 )
+Vertical 6
+1801
+38
+( 90 , 44 )
+Horizontal -41
+( 90 , 44 )
+Vertical -5
+1806
+( 77 , 50 )
+Horizontal -26
+( 77 , 50 )
+Vertical -11
+1818
+37
+31
+7
+( 77 , 53 )
+Horizontal -27
+( 77 , 53 )
+Vertical -15
+1818
+37
+( 72 , 57 )
+Horizontal -22
+( 72 , 57 )
+Vertical -16
+1823
+36
+( 211 , 93 )
+Horizontal -204
+( 211 , 93 )
+Vertical -86
+1706
+127
+( 72 , 53 )
+Horizontal -24
+( 72 , 53 )
+Vertical -14
+1824
+29
+( 66 , 41 )
+Horizontal -18
+( 66 , 41 )
+Vertical -1
+1830
+( 72 , 26 )
+Horizontal -23
+( 72 , 26 )
+Vertical 15
+1824
+31
+( 72 , 23 )
+Horizontal -23
+( 72 , 23 )
+Vertical 16
+1824
+35
+( 77 , 17 )
+Horizontal -27
+( 77 , 17 )
+Vertical 23
+1818
+( 79 , 14 )
+Horizontal -26
+( 79 , 14 )
+Vertical 26
+1815
+( 80 , 14 )
+Horizontal -28
+( 80 , 14 )
+Vertical 26
+1814
+( 84 , 12 )
+Horizontal -34
+( 84 , 12 )
+Vertical 28
+1811
+( 67 , 25 )
+Horizontal -18
+( 67 , 25 )
+Vertical 14
+1829
+32
+( 63 , 25 )
+Horizontal -11
+( 63 , 25 )
+Vertical 14
+1831
+36
+( 66 , 25 )
+Horizontal -16
+( 66 , 25 )
+Vertical 14
+1829
+26
+( 60 , 29 )
+Horizontal -16
+( 60 , 29 )
+Vertical 10
+1838
+24
+( 48 , 36 )
+Horizontal 1
+( 48 , 36 )
+Vertical 3
+1848
+30
+( 37 , 41 )
+Horizontal 17
+( 37 , 41 )
+Vertical 0
+1856
+41
+( 48 , 42 )
+Horizontal 1
+( 48 , 42 )
+Vertical -2
+1848
+( 58 , 46 )
+Horizontal -7
+( 58 , 46 )
+Vertical -6
+1837
+29
+( 124 , 73 )
+Horizontal -73
+( 124 , 73 )
+Vertical -34
+1771
+( 221 , 129 )
+Horizontal -170
+( 221 , 129 )
+Vertical -90
+1674
+10
+( 258 , 170 )
+Horizontal -204
+( 258 , 170 )
+Vertical -130
+1635
+1
+( 294 , 202 )
+Horizontal -239
+( 294 , 202 )
+Vertical -160
+1599
+7
+( 324 , 210 )
+Horizontal -270
+( 324 , 210 )
+Vertical -168
+1569
+36
+6
+( 393 , 214 )
+Horizontal -342
+( 393 , 214 )
+Vertical -172
+1502
+8
+( 500 , 228 )
+Horizontal -447
+( 500 , 228 )
+Vertical -185
+1394
+12
+( 624 , 251 )
+Horizontal -571
+( 624 , 251 )
+Vertical -206
+1270
+13
+( 685 , 249 )
+Horizontal -631
+( 685 , 249 )
+Vertical -207
+1208
+619
+11
+( 696 , 235 )
+Horizontal -636
+( 696 , 235 )
+Vertical -186
+1194
+606
+13
+( 751 , 281 )
+Horizontal -686
+( 751 , 281 )
+Vertical -231
+1137
+13
+
